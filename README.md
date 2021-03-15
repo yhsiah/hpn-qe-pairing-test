@@ -13,7 +13,7 @@ We do not strictly expect you to finish writing the test completely.
 ## Steps
 
 1. Clone the repo
-2. install dependencies (if using Testcafe of Cypress)
+2. install dependencies with `yarn` (if using Testcafe of Cypress)
 3. create a new branch named `candidate/firstName-lastName`
 4. create the tests for this exercise
 5. push the branch to origin
@@ -23,7 +23,7 @@ We do not strictly expect you to finish writing the test completely.
 
 We want you to create an automated test for the following:
 
-    Search for an event on https://hopin.com/explore and check that it shows up correctly in the results, then click the event result and check that it opens as expected.
+>Search for an event on https://hopin.com/explore and check that it shows up correctly in the results, then click the event result and check that it opens as expected.
 
 ## Tooling
 

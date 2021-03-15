@@ -1,0 +1,12 @@
+{
+  "src": "./testcafe/*.js",
+  "browsers": ["chrome"],
+  "reporter": [
+    {
+      "name": "spec"
+    }
+  ],
+  "selectorTimeout": 20000,
+  "skipJsErrors": true,
+  "skipUncaughtErrors": true
+}

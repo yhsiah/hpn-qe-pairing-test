@@ -4,5 +4,9 @@
   "description": "QE Test Automation pairing exercise",
   "main": "index.js",
   "author": "yhsiah <yhsiah90@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.6.0",
+    "testcafe": "^1.12.0"
+  }
 }
