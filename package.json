@@ -1,0 +1,8 @@
+{
+  "name": "hpn-qe-pairing-test",
+  "version": "1.0.0",
+  "description": "QE Test Automation pairing exercise",
+  "main": "index.js",
+  "author": "yhsiah <yhsiah90@gmail.com>",
+  "license": "MIT"
+}
